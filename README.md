@@ -1,1 +1,4 @@
-# kaggle-workshop-dashboarding-with-scheduled-nb
+# Kaggle
+## Dashboarding With Scheduled Notebooks
+
+Instructor : Rachael Tatman
